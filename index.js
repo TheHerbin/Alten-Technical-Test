@@ -1,5 +1,5 @@
 //Little API for the back-end side of the application.
-//It does not have any security for the moment 
+//It does not have any security for the moment
 //Typo used : camelCase
 
 const express = require('express');
@@ -23,7 +23,6 @@ app.listen(8080, () => {
 // returns all products
 app.get('/products', (req, res) => {
     
-
     connection.query('SELECT * FROM product', (err, rows, fields) => {
         if (err) throw err
 
