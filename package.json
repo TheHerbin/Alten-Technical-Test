@@ -1,0 +1,15 @@
+{
+    "name": "alten-technical-test",
+    "version": "1.0.0",
+    "description": "Sadly, only the back-end part will be done here",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Theo herbin",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.3",
+        "mysql": "^2.18.1"
+    }
+}
