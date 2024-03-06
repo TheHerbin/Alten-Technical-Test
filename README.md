@@ -1,5 +1,5 @@
 # Description
-This is an small project that I am Submitting in order to integrate the ALTEN team in **Node.js** and **expressJS**.
+This is a small project that I am Submitting in order to integrate the ALTEN team in **Node.js** and **expressJS**.
 
 The whole project in developped in english for good practises despite french being my main language.
 
